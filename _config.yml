@@ -7,8 +7,8 @@ description: Tba
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://drive.google.com/file/d/0BzbS52LDnTMUbVJpR1VrNWNqZGxvMGxBdW80TnNqcGFlODVJ/view?usp=sharing
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
