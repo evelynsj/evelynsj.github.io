@@ -8,4 +8,4 @@ layout: page
 
 <p>I'm passionate about bringing inclusion to technology and making it more accessible. As one of the organizers of a social good hackathon, <strong>HackDavis</strong>, I'm hoping to encourage people to think about how they could build technology that benefit people who aren't usually targeted. Through my role as a facilitator for <strong>Girls Who Code</strong>, I'm also hoping to empower young girls of all backgrounds to explore computer science.</p>
 
-<p>I'm currently seeking software engineering internship opportunities for Summer 2019! Feel free to review my resume <a src="">here</a>!</p>
+<p>I'm currently seeking software engineering internship opportunities for Summer 2019, feel free to review my resume <a src="https://drive.google.com/file/d/1afIfeevVpMELg0C7B7JL_u781ezzsT1b/view">here</a>!</p>
